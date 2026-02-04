@@ -57,10 +57,11 @@ boot:
 connect.relate.comprise.data=<lexical.parse:eval>;
 eval=exe.orient.data;
 call:store.eval=exe.orient."data";
-create.static.ordeder==run.algo;
-app.<block:&(push_synthesis)>=(unmatch."app:framework<data>");
-block:&(push_synthesis)==block.push:&(prevent_synthesis)<<"{"app.. software" .. "framework <data>"}"
-<"synthesis">==frame.{extern"<algo"};
-{non_parse"<algo"}!==(unmatch."app:framework<extern:data>")==closed."<synthesis>".catch:sequence;
+create.static.ordeder==run.algo:&("!parse"<framework);
+"app{run.algo:&("!parse"<framework)"}.<block:&(app.push:new_synthesis)>=(unmatch."app:framework<data>");
+block:&(add_push_synthesis)==prevent.push:&(app_add_synthesis)<<"{"extern_app.. software" .. "!framework <data>"}";
+<"synthesis">==frame.{extern"<algo==&("!parse"<framework)>"};
+{non_parse"<algo"}!==(unmatch."app:!framework<extern:data>")==closed."<synthesis>".catch:sequence;
 extern:modem(wifi_Blutooth driver>##define[" "]);
+run.all<<"??";
 return"0";
