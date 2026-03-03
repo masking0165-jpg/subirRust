@@ -253,6 +253,8 @@ autoread.codeproc(exe:loop)
 autowrite.procexe(install:proc.dir){
 file_compTr()"QuantumOS".exe_/user/bin/patth_proc/func./dir
 }
-auto.publish_image-path_(Device-"file/image_Location/storage/emulated/0/Download/premium_photo-1764533873501-bee26e5ea0f6.jpg"add/tag-bottom_center(QUANTUM OS_colour3across_marge\inclined\parrallal_line\ left.bottom_up_right.Top\Red'white'green\
-Update_phone/settings_window:image
+{
+auto.publish_image-path_(Device-"file/image_Location/storage/emulated/0/Download/premium_photo-1764533873501-bee26e5ea0f6.jpg"add/tag-bottom_center(QUANTUM OS_colour3cross_marge/inclined/parrallal_line/ left.bottom_up_right.Top/*(Red'white'green)/
+Update-phone/settings_"System update"//window:image;
+}
 }
