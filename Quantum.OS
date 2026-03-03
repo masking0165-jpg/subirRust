@@ -250,6 +250,7 @@ print.ln<"revert★№№№‡"=RX:(httpAlt\\base64\\base32\\base16\\&:HASH\\:S
 }
 autoread.codeproc(exe:loop)
 {
-autowrite.procexe(install:proc.dir)
+autowrite.procexe(install:proc.dir){
+file_compTr()"QuantumOS".exe_/user/bin/patth_proc/func./dir
 }
 }
