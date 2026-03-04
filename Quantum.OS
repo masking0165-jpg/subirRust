@@ -74,7 +74,7 @@ import{dirname,join}from"node:path";
 
 clock.assist(<"boot sequence">:\*:>>data,/n^("return":Syntax,semantics,parse::data),data>:*\<"strap.binary">=(Syntax,semantics,parse);
 clause{
-auto.parse="data";
+auto.channel="data";
 {
 return("./");
 clause.value=(strings(Syntax,semantics,"parse::data: \n_..));
@@ -82,7 +82,8 @@ Value=(serial<<data<<);
 Data==<"boot sequence:("./")">;
 auto push:
 clause=strap.gen<"data:">;
-auto.enum.(boot:'%s',%d && %c,%l&%ul,%ln&%uln\n,(auto.parse==("matrix"data));
+auto.enum.(boot:'%s',%d && %c,%l&%ul,%ln&%uln\n,(auto.channel==parse.("data"));
+roout.static:memory==$:memory.store::local.dir;
 boot:proc.
     run:(virtual:cache
            .automation);
@@ -254,7 +255,7 @@ autowrite.procexe(install:proc.dir){
 file_compTr()"QuantumOS".exe_/user/bin/patth_proc/func./dir
 }
 {
-auto.publish_image-path_(Device-"file/image_Location/storage/emulated/0/Download/premium_photo-1764533873501-bee26e5ea0f6.jpg"add/tag-bottom_center(QUANTUM OS_colour3cross_marge/inclined/parrallal_line/ left.bottom_up_right.Top/*(Red'white'green)/
+auto.publish_image-path_(Device-"file/image_Location/storage_"bae8b667b4253b74232526bb872552e703d3056c2b32a78105077a7e0ef30bd1"/:tag-bottom_center("QUANTUM OS"_colour3cross_marge/inclined/parrallal_line/ left.bottom_up_right.Top/*(Red'white'green)/
 Update-phone/settings_"System update"//window:image;
 }
 }
