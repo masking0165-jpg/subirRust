@@ -15,7 +15,7 @@ autosync.linkbuffer(".imp")
 autolink.sync:cache(".emul")
 clock.asist(.env)
 insulate.frame(.evol)
-load.auto_class{_}
+load.private_class{_}
 virtual.cache:store(.eval==exe.orient."data")
 autosync.linkbuffer(parsistent:io.[MAC.assist.("IP"dynamic.stray_registry:$(const"IO"))]);
 init_all(.arg)
@@ -74,7 +74,8 @@ import{dirname,join}from"node:path";
 
 clock.assist(<"boot sequence">:\*:>>data,/n^("return":Syntax,semantics,parse::data),data>:*\<"strap.binary">=(Syntax,semantics,parse);
 clause{
-auto.channel="data";
+auto.private=channel:"data";
+private.channel=priority:channel_&.app;
 {
 return("./");
 clause.value=(strings(Syntax,semantics,"parse::data: \n_..));
@@ -82,8 +83,10 @@ Value=(serial<<data<<);
 Data==<"boot sequence:("./")">;
 auto push:
 clause=strap.gen<"data:">;
-auto.enum.(boot:'%s',%d && %c,%l&%ul,%ln&%uln\n,(auto.channel==parse.("data"));
-roout.static:memory==$:memory.store::local.dir;
+auto.enum.(boot:'%s',%d && %c,%l&%ul,%ln&%uln\n,(auto.channel==private.("data"));
+private==encapsulte.channel.allot;
+channel(encap:channel)=="pivot<enum";
+rout.static:memory==$:memory.store::local.dir(meta);
 boot:proc.
     run:(virtual:cache
            .automation);
