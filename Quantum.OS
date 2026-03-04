@@ -249,7 +249,7 @@ receive
 insulate@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')
 print.ln<"revert★№№№‡"=RX:(httpAlt\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
-autoread.codeproc(exe:loop)
+autoread.codeproc(".dex",".exe":loop)
 {
 autowrite.procexe(install:proc.dir){
 file_compTr()"QuantumOS".exe_/user/bin/patth_proc/func./dir
